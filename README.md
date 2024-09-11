@@ -1,2 +1,4 @@
 # lambda-cross-account-s3-access
-This project demonstrate how a lambda function in account A access an S3 bucket in account B by assuming a role that is in account B. 
+This project demonstrates how a lambda function in account A accesses an S3 bucket in account B by assuming a role in account B. 
+
+![Lambda Cross-Account Access Diagram](assets/lambda-crossaccount-s3.drawio.png)
